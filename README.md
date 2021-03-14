@@ -1,4 +1,4 @@
-### Hi There 👋
+## Hi There 👋
 
 <hr>
 <i>Hello, Let me Introduce myself, My name is aliazhar.<br>
@@ -9,6 +9,7 @@ I use language HTML, CSS, JavaScript, C++.<i>
 
 
 
-<b>Most-Used Languages on my Github:<b>
 
-[![Most-Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark)](https://github.com/aliazha-id)
+### Most-Used Languages on my Github:
+
+[![Most-Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark)](https://github.com/aliazhar-id)
