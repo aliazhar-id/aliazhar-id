@@ -10,6 +10,15 @@ I use language HTML, CSS, JavaScript, C++.<i>
 
 
 
-### Most-Used Languages on my Github:
+### Most Used Languages on my Github:
 
 [![Most-Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark)](https://github.com/aliazhar-id)
+
+<hr>
+
+### My Contact
+<b>Email     :</b> [aliazhar0555@gmail.com](mailto:aliazhar0555@gmail.com)\
+<b>Twitter   :</b> [aliazhar_id](https://twitter.com/aliazhar_id)\
+<b>Instagram :</b> [tiroid.id](https://www.instagram.com/tiroid.id)\
+<b>Discord   :</b> [aliazhar#7721]()
+<hr>
