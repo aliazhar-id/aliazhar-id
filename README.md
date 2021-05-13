@@ -19,6 +19,6 @@ I use language HTML, CSS, JavaScript, C++.<i>
 ### My Contact
 <b>Email     :</b> [aliazhar0555@gmail.com](mailto:aliazhar0555@gmail.com)\
 <b>Twitter   :</b> [aliazhar_id](https://twitter.com/aliazhar_id)\
-<b>Instagram :</b> [tiroid.id](https://www.instagram.com/tiroid.id)\
+<b>Instagram :</b> [aliazhar_id](https://www.instagram.com/aliazhar_id)\
 <b>Discord   :</b> [aliazhar#7721]()
 <hr>
