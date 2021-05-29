@@ -1,9 +1,9 @@
-## Hi There 👋
+## Hi There 👋, I'm aliazhar
 
 <hr>
-<i>Hello, Let me Introduce myself, My name is aliazhar.<br>
+<i>Let me Introduce myself, My name is aliazhar.<br>
 I am from Indonesia, I am 18 years old, now I am a Front-End Developer.<br> 
-I use language HTML, CSS, JavaScript, C++.<i>
+I use language HTML, CSS, JavaScript, C++, SQL.<i>
 <hr>
 
 
