@@ -22,3 +22,5 @@ I use language HTML, CSS, JavaScript, C++, SQL.<i>
 <b>Instagram :</b> [aliazhar_id](https://www.instagram.com/aliazhar_id)\
 <b>Discord   :</b> [aliazhar#7721]()
 <hr>
+
+[![Discord](https://img.shields.io/discord/716582498154315786.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/48YjQ7Y)
