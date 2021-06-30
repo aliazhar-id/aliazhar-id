@@ -14,12 +14,12 @@ and for Back-End I use JavaScript(Node.JS), and SQL<i>
 
 
 <a href="https://github.com/aliazhar-id">
-  <img align="left" width="460px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark" />
+  <img align="center" width="460px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/aliazhar-id">
-  <img align="right" width="460px" height="200px" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=dark" />
+  <img align="center" width="460px" height="200px" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=dark" />
 </a>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
 <hr>
 
 ### My Contact
