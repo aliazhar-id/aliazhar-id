@@ -11,15 +11,19 @@ and for Back-End I use JavaScript(Node.JS), and SQL<i>
 
 
 
-
-
+#### My Github Stats:
 <a href="https://github.com/aliazhar-id">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&layout=compact&theme=dark" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=dark" />
 </a>
+  <br>
+  <br>
+  
+#### Most-Used Languages on my Github:
 <a href="https://github.com/aliazhar-id">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=dark" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&langs_count=10&layout=compact&theme=dark" />
 </a>
-  <br><br><br><br><br><br><br><br>
+  <br>
+
 <hr>
 
 ### My Contact
