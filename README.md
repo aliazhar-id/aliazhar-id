@@ -43,15 +43,22 @@
 ---
 
 <details>
+  <summary>:zap: Github Profile</summary>
+  
+  <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliazhar-id&theme=vue" />
+
+</details>
+
+<details>
   <summary>:zap: Most Used Languages</summary>
   
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&langs_count=10&layout=compact&theme=dark" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&langs_count=10&layout=compact&theme=vue" />
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="aliazhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=dark" />
+  <img align="left" alt="aliazhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=vue" />
 
 </details>
