@@ -25,17 +25,26 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Arch Linux" width="26px" src="icons/arch.svg" />
-<img align="left" alt="Sublime Text 4" width="26px" src="icons/sublime-text.svg" />
-<img align="left" alt="HTML5" width="26px" src="icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />
-<img align="left" alt="CPP" width="26px" src="icons/cpp.svg" />
-<img align="left" alt="SQL" width="26px" src="icons/sql.png" />
-<img align="left" alt="Git" width="26px" src="icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="icons/github.svg" />
-<img align="left" alt="Nodejs" width="26px" src="icons/nodejs.svg" />
+[<img align="left" alt="Arch Linux" width="26px" src="icons/arch.svg" />](https://archlinux.org)
+[<img align="left" alt="Sublime Text" width="26px" src="icons/sublime-text.svg" />](https://http://sublimetext.com)
+[<img align="left" alt="HTML5" width="26px" src="icons/html5.svg" />](https://html.spec.whatwg.org/)
+[<img align="left" alt="CSS3" width="26px" src="icons/css3.svg" />](https://www.w3.org/TR/CSS/#css)
+[<img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[<img align="left" alt="CPP" width="26px" src="icons/cpp.svg" />](https://isocpp.org/)
+[<img align="left" alt="SQL" width="26px" src="icons/sql.png" />](https://www.iso.org/standard/63555.html)
+[<img align="left" alt="Git" width="26px" src="icons/git.svg" />](https://git-scm.com)
+[<img align="left" alt="GitHub" width="26px" src="icons/github.svg" />](https://github.com)
+[<img align="left" alt="Nodejs" width="26px" src="icons/nodejs.svg" />](http://nodejs.org/)
 <img align="left" alt="Terminal" width="26px" src="icons/terminal.svg" />
+
+<br />
+
+### Support and Donate:
+
+[<img align="left" alt="PayPal" width="26px" src="icons/paypal.svg" />]()
+[<img align="left" alt="Patreon" width="26px" src="icons/patreon.svg" />](https://patreon.com/aliazhar)
+[<img align="left" alt="LinkAja" width="26px" src="icons/linkaja.svg" />](https://user-images.githubusercontent.com/58647884/135658439-5e05fbdf-e6cd-470d-ac32-322c1dccb6ea.jpg)
+[<img align="left" alt="ko-fi" width="26px" src="icons/ko-fi.svg" />](https://ko-fi.com/aliazhar)
 
 <br />
 <br />
