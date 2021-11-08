@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🚘 Trying to become a Full-Stack developer 🤝
 - 🐧 Arch Linux Fanboy 😁
+- 🐃 GNU/Linux Enthusiast.
 - 🤸 Code is like humor. When you have to explain it, it’s bad. 🙊
 - ⚡ I don't like to wait and I don't like to keep others waiting 💣
 
