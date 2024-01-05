@@ -45,6 +45,7 @@
 
 [<img align="left" alt="React" width="26px" src="icons/react.svg" />](https://react.dev/)
 [<img align="left" alt="React" width="26px" src="icons/laravel.svg" />](https://laravel.com/)
+[<img align="left" alt="React" width="26px" src="icons/tailwindcss.svg" />](https://tailwindcss.com/)
 [<img align="left" alt="React" width="26px" src="icons/material-ui.svg" />](https://mui.com//)
 
 <br />
