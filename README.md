@@ -6,7 +6,7 @@
 ## I'm a Newbie Developer, Trader, and Student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🚘 Trying to become a Full-Stack developer, Data Scientist, and DevOps Engginer 🤝
+- 🚘 Trying to become a Full-Stack developer, Data Scientist, and DevOps Engineer 🤝
 - 🐧 Arch Linux Fanboy 😁
 - 🐃 GNU/Linux Enthusiast.
 - 🤸 Code is like humor. When you have to explain it, it’s bad. 🙊
