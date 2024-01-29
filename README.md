@@ -1,6 +1,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2 align="center">Hi There, I'm aliazhar 👋</h2>
+<h1 align="center">Hi There, I'm aliazhar 👋</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aliazhar-id&style=for-the-badge&label=Visitor" />
@@ -17,9 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aliazhar-id/aliazhar-id/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<br>
 
 ## I'm a Newbie Developer, Trader, and Student!
 
@@ -30,9 +28,7 @@
 - 🤸 Code is like humor. When you have to explain it, it’s bad.
 - ⚡ I don't like to wait and I don't like to keep others waiting.
 
-<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<br>
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
@@ -216,28 +212,23 @@
   </tr>
 </table>
 
-<!-- <br> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
 | Saveone  | [SaveOne](https://saveone.aliazhar.my.id/) |  Private   | `TypeScript` `Python` `React` `Tailwind CSS` `NodeJS` `Vite` `Express JS` |
 
-<br>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Support me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" />
-
 <a href="https://paypal.me/aliazharid"><img src="https://img.shields.io/badge/PayPal-d5d5d5?style=for-the-badge&logo=paypal&logoColor=0A0209" /></a>
 <a href="https://user-images.githubusercontent.com/58647884/135658439-5e05fbdf-e6cd-470d-ac32-322c1dccb6ea.jpg"><img src="https://img.shields.io/badge/Link_Aja-d5d5d5?style=for-the-badge&logo=paypal&logoColor=0A0209" /></a>
 <a href="https://ko-fi.com/aliazhar"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=kofi&logoColor=0A0209" /></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- <br> -->
 
 <!-- | ![aliazhar github stats](https://github-readme-stats.vercel.app/api?username=aliazhar-id&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ali Azhar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliazhar-id&theme=tokyonight&theme=icegray&border_radius=8) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
