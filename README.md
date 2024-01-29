@@ -1,7 +1,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 align="center">Hi There, I'm aliazhar 👋</h2>
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aliazhar-id&style=for-the-badge&label=Visitor" />
@@ -11,7 +10,6 @@
   <a href="https://discordapp.com/users/513533676802277377"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username aliazhar(aliazhar#5264)" ></a>
   <a href="https://twitter.com/aliazhar_id"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username aliazhar_id" ></a>
 </div>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliazhar-id/aliazhar-id/output/github-contribution-grid-snake-dark.svg">
