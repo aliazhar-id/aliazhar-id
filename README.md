@@ -1,117 +1,245 @@
-## Hi There, I'm aliazhar 👋
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-[![Website](https://img.shields.io/website?label=aliazhar.my.id&style=for-the-badge&url=https%3A%2F%2Faliazhar.my.id)](https://aliazhar.my.id)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aliazhar_id?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faliazhar-id&screen_name=aliazhar_id)
+<h2 align="center">Hi There, I'm aliazhar 👋</h2>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliazhar-id&style=for-the-badge&label=Visitor" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/aliazhar-id/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username aliazhar-id" /></a>
+  <a href="mailto:email@aliazhar.my.id"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of aliazhar i.e.   email@aliazhar.my.id" /></a>
+  <a href="https://discordapp.com/users/513533676802277377"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username aliazhar(aliazhar#5264)" ></a>
+  <a href="https://twitter.com/aliazhar_id"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username aliazhar_id" ></a>
+</div>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliazhar-id/aliazhar-id/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliazhar-id/aliazhar-id/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aliazhar-id/aliazhar-id/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
 
 ## I'm a Newbie Developer, Trader, and Student!
 
-- 🌱 I’m currently learning everything 🤣
-- 🚘 Trying to become a Full-Stack developer, Data Scientist, and DevOps Engineer 🤝
-- 🐧 Arch Linux Fanboy 😁
+- 🌱 I’m currently learning everything.
+- 🚘 Trying to become a Full-Stack developer, Data Scientist, and DevOps Engineer.
+- 🐧 Arch Linux Fanboy.
 - 🐃 GNU/Linux Enthusiast.
-- 🤸 Code is like humor. When you have to explain it, it’s bad. 🙊
-- ⚡ I don't like to wait and I don't like to keep others waiting 💣
+- 🤸 Code is like humor. When you have to explain it, it’s bad.
+- ⚡ I don't like to wait and I don't like to keep others waiting.
 
-### Connect with me
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
 
-[<img align="left" alt="aliazhar.my.id" width="22px" src="icons/globe.svg" />](https://aliazhar.my.id)
-[<img align="left" alt="aliazhar | Gmail" width="22px" src="icons/gmail.svg" />](mailto:email@aliazhar.my.id)
-[<img align="left" alt="aliazhar | YouTube" width="22px" src="icons/youtube.svg" />](https://www.youtube.com/channel/UCwtk6iJvfKaSna-2iNdGmfA)
-[<img align="left" alt="aliazhar_id | Twitter" width="22px" src="icons/twitter.svg" />](https://twitter.com/aliazhar_id)
-[<img align="left" alt="aliazhar | LinkedIn" width="22px" src="icons/linkedin.svg" />](https://linkedin.com/in/aliazhar-id)
-[<img align="left" alt="aliazhar_id | Instagram" width="22px" src="icons/instagram.svg" />](https://www.instagram.com/aliazhar_id/)
-[<img align="left" alt="aliazhar | Discord" width="22px" src="icons/discord.svg" />](https://discord.gg/48YjQ7Y)
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-<br />
+<table width="300">
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </a>
+      <a href="https://www.php.net/">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </a>
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </a>
+      <a href="https://html.spec.whatwg.org/">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      </a>
+      <a href="https://www.w3.org/TR/CSS/#css">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </a>
+      <a href="https://isocpp.org/">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      </a>
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+      </a>
+      <a href="https://www.java.com/en/">
+        <img src="https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBkPSJNMTEuNjIyIDI0Ljc0cy0xLjIzLjc0OC44NTUuOTYyYzIuNTEuMzIgMy44NDcuMjY3IDYuNjI1LS4yNjdhMTAuMDIgMTAuMDIgMCAwIDAgMS43NjMuODU1Yy02LjI1IDIuNjcyLTE0LjE2LS4xNi05LjI0NC0xLjU1em0tLjgtMy40NzNzLTEuMzM2IDEuMDE1Ljc0OCAxLjIzYzIuNzI1LjI2NyA0Ljg2Mi4zMiA4LjU1LS40MjdhMy4yNiAzLjI2IDAgMCAwIDEuMjgyLjgwMWMtNy41MzQgMi4yNDQtMTUuOTc2LjIxNC0xMC41OC0xLjYwM3ptMTQuNzQ3IDYuMDlzLjkwOC43NDgtMS4wMTUgMS4zMzZjLTMuNTggMS4wNy0xNS4wMTQgMS4zOS0xOC4yMiAwLTEuMTIyLS40OCAxLjAxNS0xLjE3NSAxLjctMS4yODIuNjk1LS4xNiAxLjA3LS4xNiAxLjA3LS4xNi0xLjIzLS44NTUtOC4xNzUgMS43NjMtMy41MjYgMi41MSAxMi43NyAyLjA4NCAyMy4yOTYtLjkwOCAxOS45ODMtMi40MDR6TTEyLjIgMTcuNjMzcy01LjgyNCAxLjM5LTIuMDg0IDEuODdjMS42MDMuMjE0IDQuNzU1LjE2IDcuNjk0LS4wNTMgMi40MDQtLjIxNCA0LjgxLS42NCA0LjgxLS42NHMtLjg1NS4zNzQtMS40NDMuNzQ4Yy01LjkzIDEuNTUtMTcuMzEyLjg1NS0xNC4wNTItLjc0OCAyLjc3OC0xLjMzNiA1LjA3Ni0xLjE3NSA1LjA3Ni0xLjE3NXptMTAuNDIgNS44MjRjNS45ODQtMy4xIDMuMjA2LTYuMDkgMS4yODItNS43MTctLjQ4LjEwNy0uNjk1LjIxNC0uNjk1LjIxNHMuMTYtLjMyLjUzNC0uNDI3YzMuNzk0LTEuMzM2IDYuNzg2IDQuMDA3LTEuMjMgNi4wOSAwIDAgLjA1My0uMDUzLjEwNy0uMTZ6bS05LjgzIDguNDQyYzUuNzcuMzc0IDE0LjU4Ny0uMjE0IDE0LjgtMi45NCAwIDAtLjQyNyAxLjA3LTQuNzU1IDEuODctNC45MTYuOTA4LTExLjAwNy44LTE0LjU4Ny4yMTQgMCAwIC43NDguNjQgNC41NDIuODU1eiIgZmlsbD0iIzRlNzg5NiIvPjxwYXRoIGQ9Ik0xOC45OTYuMDAxczMuMzEzIDMuMzY2LTMuMTUyIDguNDQyYy01LjE4MyA0LjExNC0xLjE3NSA2LjQ2NSAwIDkuMTM3LTMuMDQ2LTIuNzI1LTUuMjM2LTUuMTMtMy43NC03LjM3M0MxNC4yOTQgNi44OTMgMjAuMzMyIDUuMyAxOC45OTYuMDAxem0tMS43IDE1LjMzNWMxLjU1IDEuNzYzLS40MjcgMy4zNjYtLjQyNyAzLjM2NnMzLjk1NC0yLjAzIDIuMTM3LTQuNTQyYy0xLjY1Ni0yLjQwNC0yLjk0LTMuNTggNC4wMDctNy41ODcgMCAwLTEwLjk1MyAyLjcyNS01LjcxNyA4Ljc2M3oiIGZpbGw9IiNmNTgyMTkiLz48L3N2Zz4=&logoColor=white"/>
+      </a>
+      <a href="https://dart.dev/">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-### Languages
-
-[<img align="left" alt="TypeScript" width="26px" src="icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img align="left" alt="JavaScript" width="26px" src="icons/js.svg" />](https://www.ecma-international.org/publications-and-standards/standardsecma-262/)
-[<img align="left" alt="Python" width="26px" src="icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="HTML5" width="26px" src="icons/html5.svg" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="CSS3" width="26px" src="icons/css3.svg" />](https://www.w3.org/TR/CSS/#css)
-[<img align="left" alt="PHP" width="30px" height="30px" src="icons/php.svg" />](https://www.php.net/)
-[<img align="left" alt="CPP" width="26px" src="icons/cpp.svg" />](https://isocpp.org/)
-[<img align="left" alt="Java" width="26px" src="icons/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="Nodejs" width="26px" src="icons/nodejs.svg" />](http://nodejs.org/)
-[<img align="left" alt="Bash" width="26px" src="icons/bash.svg" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="SQL" width="26px" src="icons/sql.png" />](https://www.iso.org/standard/63555.html)
-[<img align="left" alt="MongoDB" width="26px" src="icons/mongodb.svg" />](https://www.mongodb.com/)
-
-<br />
-
-### Library / Framework
-
-[<img align="left" alt="React" width="26px" src="icons/react.svg" />](https://react.dev/)
-[<img align="left" alt="React" width="26px" src="icons/laravel.svg" />](https://laravel.com/)
-[<img align="left" alt="React" width="26px" src="icons/tailwindcss.svg" />](https://tailwindcss.com/)
-[<img align="left" alt="React" width="26px" src="icons/material-ui.svg" />](https://mui.com//)
-
-<br />
-
-### Tools
-
-[<img align="left" alt="VS Code" width="26px" src="icons/vscode.svg" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" width="26px" src="icons/git.svg" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="icons/github.svg" />](https://github.com)
-[<img align="left" alt="Sublime Text" width="26px" src="icons/sublime-text.svg" />](https://http://sublimetext.com)
-[<img align="left" alt="Jupyter Notebook" width="26px" src="icons/jupyter.svg" />](https://jupyter.org/)
-[<img align="left" alt="Figma" width="26px" src="icons/figma.svg" />](https://www.figma.com/)
-[<img align="left" alt="Cloudflare" width="50px" height="30" src="icons/cloudflare.svg" />](https://www.figma.com/)
-<img align="left" alt="Terminal" width="26px" src="icons/terminal.svg" />
-
-<br />
-
-### Cloud Provider
-
-[<img align="left" alt="Digital Ocean" width="26px" src="icons/digitalocean.svg" />](https://www.digitalocean.com/)
-[<img align="left" alt="OVH Cloud" width="26px" src="icons/ovh.svg" />](https://www.ovhcloud.com/)
-[<img align="left" alt="AWS" width="30px" height="26px" src="icons/aws.svg" />](https://aws.amazon.com/)
-
-<br >
-
-### Operating System
-
-[<img align="left" alt="Arch Linux" width="26px" src="icons/arch.svg" />](https://archlinux.org)
-[<img align="left" alt="Windows" width="26px" src="icons/windows.svg" />](https://www.microsoft.com/en-gb/windows/)
-[<img align="left" alt="Ubuntu Linux" width="26px" src="icons/ubuntu.svg" />](https://ubuntu.com/)
-[<img align="left" alt="Android" width="26px" height="30" src="icons/android.svg" />](https://www.android.com/)
-[<img align="left" alt="Manjaro Linux" width="26px" src="icons/manjaro.svg" />](https://manjaro.org/)
-[<img align="left" alt="Linux Mint" width="26px" src="icons/mint.svg" />](https://linuxmint.com/)
-
-</br>
-
----
-
-### Support and Donate:
-
-[<img align="left" alt="PayPal" width="26px" src="icons/paypal.svg" />](https://paypal.me/aliazharid)
-[<img align="left" alt="Patreon" width="26px" src="icons/patreon.svg" />](https://patreon.com/aliazhar)
-[<img align="left" alt="LinkAja" width="26px" src="icons/linkaja.svg" />](https://user-images.githubusercontent.com/58647884/135658439-5e05fbdf-e6cd-470d-ac32-322c1dccb6ea.jpg)
-[<img align="left" alt="ko-fi" width="26px" src="icons/ko-fi.svg" />](https://ko-fi.com/aliazhar)
-
-<br />
-
----
-
-<details>
-  <summary>:zap: Github Profile</summary>
+  <tr>
+    <td>Framework & Library</td>
+    <td>
+      <a href="https://laravel.com/">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+      </a>
+      <a href="https://tailwindcss.com/">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      </a>
+      <a href="https://expressjs.com/">
+        <img src="https://img.shields.io/badge/Express_js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      </a>
+      <a href="https://pandas.pydata.org/">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </a>
+      <a href="https://scikit-learn.org/">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      </a>
+      <a href="https://getbootstrap.com/">
+        <img src="https://img.shields.io/badge/Bootstrapp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      </a>
+      <a href="https://mui.com/">
+        <img src="https://img.shields.io/badge/Mui-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+      </a>
+      <a href="https://react.dev/">
+        <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
   
-  <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliazhar-id&theme=vue" />
+  <tr>
+    <td>Database</td>
+    <td>
+      <a href="https://mariadb.org/">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+      </a>
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </a>
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </a>
+      <a href="https://neo4j.com/">
+        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-</details>
+  <tr>
+    <td>Services & Tools</td>
+    <td>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+      </a>
+      <a href="http://nodejs.org/">
+        <img src="https://img.shields.io/badge/Node_js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      </a>
+      <a href="https://www.nginx.com/">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+      </a>
+      <a href="https://www.apachefriends.org/">
+        <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+      </a>
+      <a href="https://www.cloudflare.com/">
+        <img src="https://img.shields.io/badge/CloudFlare-F38020?style=for-the-badge&cloudflare=git&logoColor=white"/>
+      </a>
+      <a href="https://www.figma.com/">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliazhar-id&langs_count=10&layout=compact&theme=vue" />
+  <tr>
+    <td>IDE & Environment</td>
+    <td>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      </a>
+      <a href="https://www.vim.org/">
+        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+      </a>
+      <a href="https://www.sublimetext.com/">
+        <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"/>
+      </a>
+      <a href="https://jupyter.org/">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      </a>
+      <a href="https://eslint.org/">
+        <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-</details>
+  <tr>
+    <td>Cloud Provider</td>
+    <td>
+      <a href="https://www.digitalocean.com/">
+        <img src="https://img.shields.io/badge/Digital Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+      </a>
+      <a href="https://www.ovhcloud.com/">
+        <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white"/>
+      </a>
+      <a href="https://aws.amazon.com/">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      </a>
+      <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <tr>
+    <td>Operating System</td>
+    <td>
+      <a href="https://archlinux.org/">
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+      </a>
+      <a href="https://www.microsoft.com/en-gb/windows/">
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+      </a>
+      <a href="https://ubuntu.com/">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+      </a>
+      <a href="https://www.android.com/">
+        <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+      </a>
+      <a href="https://manjaro.org/">
+        <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
+      </a>
+      <a href="https://linuxmint.com/">
+        <img src="https://img.shields.io/badge/Linuxmint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <img align="left" alt="aliazhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aliazhar-id&show_icons=true&theme=vue" />
+<!-- <br> -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-</details>
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
+| :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
+| Saveone  | [SaveOne](https://saveone.aliazhar.my.id/) |  Private   | `TypeScript` `Python` `React` `Tailwind CSS` `NodeJS` `Vite` `Express JS` |
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# Support me <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" />
+
+<a href="https://paypal.me/aliazharid"><img src="https://img.shields.io/badge/PayPal-d5d5d5?style=for-the-badge&logo=paypal&logoColor=0A0209" /></a>
+<a href="https://user-images.githubusercontent.com/58647884/135658439-5e05fbdf-e6cd-470d-ac32-322c1dccb6ea.jpg"><img src="https://img.shields.io/badge/Link_Aja-d5d5d5?style=for-the-badge&logo=paypal&logoColor=0A0209" /></a>
+<a href="https://ko-fi.com/aliazhar"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-d5d5d5?style=for-the-badge&logo=kofi&logoColor=0A0209" /></a>
+
+<!-- <br> -->
+
+<!-- | ![aliazhar github stats](https://github-readme-stats.vercel.app/api?username=aliazhar-id&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ali Azhar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliazhar-id&theme=tokyonight&theme=icegray&border_radius=8) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
