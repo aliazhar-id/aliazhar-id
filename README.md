@@ -41,6 +41,9 @@
     <td>Languages</td>
     <td>
       <a href="https://www.typescriptlang.org/">
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+      </a>
+      <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
